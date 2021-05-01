@@ -23,3 +23,9 @@ An UNO handles 6 separate strips of neopixels - one in each hexagon. Only one Ad
 To set it up:
 1. Load [ledSlaveUNO.ino](https://github.com/DangerousTim/LED-Octapad/blob/master/ledSlaveUNO/ledSlaveUNO.ino)
 2. Upload.
+
+## Other Contributors
+
+* [Aditya Bidwai](https://github.com/adbidwai)
+* [Yash Jangir](https://github.com/offjangir)
+* [Abhishek Dixit](https://github.com/abhidxt299) 
