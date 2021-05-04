@@ -1,4 +1,4 @@
-# LED Octapad
+# LED Hexapad
 
 <p float='left'>
 <img src = "https://github.com/DangerousTim/LED-Octapad/blob/master/Media/closeupnice.jpg" width=400>
